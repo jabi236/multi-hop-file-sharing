@@ -1,0 +1,1 @@
+In this project we create a basic network featuring a server and two clients. Clients could upload and dowload files to the server, if the server didn't have a file but another client did, the server would download the file from the other client, upload it to user requesting, and delete file.
